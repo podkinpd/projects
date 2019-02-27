@@ -1,0 +1,7 @@
+.:
+about
+all.txt
+constants.h
+groupofpoints.h
+out.txt
+point.h

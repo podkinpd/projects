@@ -1,0 +1,27 @@
+Concept
+
+general objects:
+	field, buttons, textbox, help.
+field:
+	it drows every point(possibly some relations between them)
+buttons:
+	there are buttons and antibuttons
+	after click on button some points move(it is known that during the program this movement doesn't change)
+	antibutton for reverse motion
+textbox:
+	a field for code(probably more then one language)
+	you can run the code and motion of points can be seen on field
+	
+	code:
+		first of all player have commands which click on buttons
+		also there is a vector of points(current positions)
+		!!this vector could be changed only by click on button
+		libraries and standart depends on language( for c++ stl ) 
+help:
+	here should be all avaliable standart functions(as ClickButton1)
+
+Main idea
+
+	Every level asks(or not, it may be a riddle) player to make a figure from points. 
+	It can be done by hands, but because of assimptotics and precision it's recomended to make a code.
+	Maybe complex solution will be avaliable. As a log file.

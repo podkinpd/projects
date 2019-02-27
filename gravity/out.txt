@@ -1,0 +1,7 @@
+/:
+bin/			      home/	      lost+found/  run/   usr/
+boot/			      initrd.img      media/	   sbin/  var/
+cdrom/			      initrd.img.old  mnt/	   snap/  vmlinuz
+C:\\nppdf32Log\\debuglog.txt  lib/	      opt/	   srv/   vmlinuz.old
+dev/			      lib32/	      proc/	   sys/
+etc/			      lib64/	      root/	   tmp/
