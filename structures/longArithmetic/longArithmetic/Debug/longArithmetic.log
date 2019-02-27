@@ -1,0 +1,4 @@
+﻿  longnumber.cpp
+c:\users\павел\documents\visual studio 2010\projects\longarithmetic\longarithmetic\longnumber.cpp(289): warning C4018: >: несоответствие типов со знаком и без знака
+  LINK : не найден или не выполнена сборка C:\Users\ПАВЕЛ\documents\visual studio 2010\Projects\longArithmetic\Debug\longArithmetic.exe при последней инкрементной компоновке; выполняется полная компоновка
+  longArithmetic.vcxproj -> C:\Users\ПАВЕЛ\documents\visual studio 2010\Projects\longArithmetic\Debug\longArithmetic.exe

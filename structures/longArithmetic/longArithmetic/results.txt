@@ -1,0 +1,4 @@
+Base = 10 Size = 9000 Time = 2.733
+Base = 100 Size = 4500 Time = 1.911
+Base = 1000 Size = 3000 Time = 1.623
+Base = 10000 Size = 2250 Time = 1.484

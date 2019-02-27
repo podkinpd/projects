@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\павел\documents\visual studio 2010\projects\segmenttree\segmenttree\segmenttree.h(52): warning C4101: c: неиспользованная локальная переменная
+          c:\users\павел\documents\visual studio 2010\projects\segmenttree\segmenttree\segmenttree.h(47): при компиляции функции-члена "void SegmentTree<T,Func>::change(T,size_t)" класса шаблон
+          with
+          [
+              T=int,
+              Func=func
+          ]
+          c:\users\павел\documents\visual studio 2010\projects\segmenttree\segmenttree\main.cpp(29): см. ссылку на создание экземпляров класса шаблон при компиляции "SegmentTree<T,Func>"
+          with
+          [
+              T=int,
+              Func=func
+          ]
+  LINK : не найден или не выполнена сборка C:\Users\ПАВЕЛ\Documents\Visual Studio 2010\Projects\SegmentTree\Debug\SegmentTree.exe при последней инкрементной компоновке; выполняется полная компоновка
+  SegmentTree.vcxproj -> C:\Users\ПАВЕЛ\Documents\Visual Studio 2010\Projects\SegmentTree\Debug\SegmentTree.exe

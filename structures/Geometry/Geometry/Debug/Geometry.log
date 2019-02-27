@@ -1,0 +1,15 @@
+﻿  Circle.cpp
+  Создание кода...
+  Компиляция...
+  main.cpp
+c:\users\павел\documents\visual studio 2010\projects\geometry\geometry\main.cpp(35): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\павел\documents\visual studio 2010\projects\geometry\geometry\main.cpp(39): warning C4018: <: несоответствие типов со знаком и без знака
+  Vector.cpp
+  Shape.cpp
+  Segment.cpp
+  Polygon.cpp
+  Point.cpp
+  Создание кода...
+c:\users\павел\documents\visual studio 2010\projects\geometry\geometry\segment.cpp(197): warning C4715: Segment::Intersect: значение возвращается не при всех путях выполнения
+  LINK : не найден или не выполнена сборка C:\Users\ПАВЕЛ\documents\visual studio 2010\Projects\Geometry\Debug\Geometry.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Geometry.vcxproj -> C:\Users\ПАВЕЛ\documents\visual studio 2010\Projects\Geometry\Debug\Geometry.exe

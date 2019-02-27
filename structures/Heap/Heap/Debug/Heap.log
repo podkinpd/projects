@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\павел\documents\visual studio 2010\projects\heap\heap\main.cpp(26): warning C4101: mor: неиспользованная локальная переменная
+c:\users\павел\documents\visual studio 2010\projects\heap\heap\heap.h(115): warning C4715: Heap<int,defaultmore,std::vector<int,std::allocator<int> > >::top: значение возвращается не при всех путях выполнения
+  LINK : не найден или не выполнена сборка C:\Users\ПАВЕЛ\Documents\Visual Studio 2010\Projects\Heap\Debug\Heap.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Heap.vcxproj -> C:\Users\ПАВЕЛ\Documents\Visual Studio 2010\Projects\Heap\Debug\Heap.exe

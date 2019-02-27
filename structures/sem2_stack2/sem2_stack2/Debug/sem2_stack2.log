@@ -1,0 +1,32 @@
+﻿Построение начато 05.03.2016 17:56:57.
+     1>Проект "C:\Users\ПАВЕЛ\Documents\Visual Studio 2010\Projects\sem2_stack2\sem2_stack2\sem2_stack2.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\sem2_stack2.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt algorithm.cpp main.cpp stack.cpp
+         stack.cpp
+         Создание кода...
+     1>c:\users\павел\documents\visual studio 2010\projects\sem2_stack2\sem2_stack2\stack.cpp(30): warning C4715: DinamicStack::Stack::Top: значение возвращается не при всех путях выполнения
+     1>c:\users\павел\documents\visual studio 2010\projects\sem2_stack2\sem2_stack2\stack.cpp(44): warning C4715: DinamicStack::Stack::Pop: значение возвращается не при всех путях выполнения
+         Компиляция...
+         algorithm.cpp
+         Создание кода...
+         Компиляция...
+         main.cpp
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ПАВЕЛ\Documents\Visual Studio 2010\Projects\sem2_stack2\Debug\sem2_stack2.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\sem2_stack2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\ПАВЕЛ\Documents\Visual Studio 2010\Projects\sem2_stack2\Debug\sem2_stack2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ПАВЕЛ\Documents\Visual Studio 2010\Projects\sem2_stack2\Debug\sem2_stack2.lib" /MACHINE:X86 Debug\algorithm.obj
+         Debug\main.obj
+         Debug\stack.obj
+         LINK : не найден или не выполнена сборка C:\Users\ПАВЕЛ\Documents\Visual Studio 2010\Projects\sem2_stack2\Debug\sem2_stack2.exe при последней инкрементной компоновке; выполняется полная компоновка
+         sem2_stack2.vcxproj -> C:\Users\ПАВЕЛ\Documents\Visual Studio 2010\Projects\sem2_stack2\Debug\sem2_stack2.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\ПАВЕЛ\Documents\Visual Studio 2010\Projects\sem2_stack2\Debug\sem2_stack2.exe;#1" /manifest Debug\sem2_stack2.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\sem2_stack2.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\sem2_stack2.lastbuildstate".
+     1>Построение проекта "C:\Users\ПАВЕЛ\Documents\Visual Studio 2010\Projects\sem2_stack2\sem2_stack2\sem2_stack2.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:03.26
